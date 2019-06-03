@@ -60,3 +60,50 @@
 12/03/18 22:19:59comecou a carregar o pkl
 12/03/18 22:19:59terminou de carregar o pkl
 12/03/18 22:19:59predicao:[322296.0955118]
+05/31/19 22:01:12acessou o index
+05/31/19 22:04:28usuario iniciou uma prediction
+06/01/19 00:58:04acessou o index
+06/01/19 00:58:09acessou o index
+06/01/19 00:59:52acessou o index
+06/01/19 00:59:53usuario iniciou uma prediction
+06/01/19 01:00:04usuario iniciou uma prediction
+06/01/19 01:00:04valores:[['100' '323' '4124.4324' '0.4242' '5']]
+06/01/19 01:00:04comecou a carregar o pkl
+06/01/19 01:00:05terminou de carregar o pkl
+06/01/19 01:00:05predicao:[329414.86707613]
+06/01/19 01:24:52usuario iniciou uma prediction
+06/01/19 01:24:52valores:[['100' '323' '4124.4324' '0.4242' '5']]
+06/01/19 01:24:52comecou a carregar o pkl
+06/01/19 01:24:52terminou de carregar o pkl
+06/01/19 01:24:52predicao:[329414.86707613]
+06/01/19 01:24:56acessou o index
+06/01/19 01:24:57acessou o index
+06/01/19 01:28:39acessou o index
+06/01/19 01:44:11acessou o index
+06/01/19 01:44:27acessou o index
+06/01/19 01:46:19acessou o index
+06/01/19 01:46:21acessou o index
+06/01/19 01:46:22acessou o index
+06/01/19 01:46:22acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:23acessou o index
+06/01/19 01:46:24acessou o index
+06/01/19 01:46:24acessou o index
+06/01/19 01:47:26acessou o index
+06/01/19 01:48:24acessou o index
+06/01/19 01:51:23acessou o index
+06/01/19 01:52:40acessou o index
+06/01/19 01:54:42acessou o index
+06/01/19 01:55:19acessou o index
+06/01/19 12:00:35acessou o index
+06/01/19 12:03:26acessou o index
+06/01/19 12:04:03acessou o index
+06/01/19 12:04:14usuario iniciou uma prediction
+06/01/19 12:04:14valores:[['100' '323' '4124.4324' '0.4242' '5']]
+06/01/19 12:04:14comecou a carregar o pkl
+06/01/19 12:04:15terminou de carregar o pkl
+06/01/19 12:04:15predicao:[329414.86707613]
